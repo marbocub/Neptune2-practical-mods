@@ -8,14 +8,13 @@ There are two mods available below.
 
 ### BL-Touch mount
 
-This is a practical BL-Touch mount for ELEGOO Neptune 2 series 3D printers.
+This is a BL-Touch mount.
 It has zero Y offset, is high stiffness and strength, and is compatible with the miniSatsana shroud.
 
 ### X axis belt shim
 
-This is an X-axis belt shim for ELEGOO Neptune 2 series 3D printers.
-It makes X belt parallel to the X axis (gantry) and equalize the nozzle movement scale at the center of the bed and at the left/right sides of the bed.
-Therefore, the accuracy of the printed model is improved.
+This is an X-axis belt shim.
+It makes X belt parallel to the X axis and equalize the nozzle travel scale over the all position on the axis.
 
 ## Authors
 

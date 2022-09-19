@@ -1,7 +1,7 @@
 # Neptune2-practical-mods/X-Axis-Belt-Shim
 
 This is an X-axis belt shim for ELEGOO Neptune 2 series 3D printers.
-It makes X belt parallel to the X axis (gantry) and equalize the nozzle movement scale at the center of the bed and at the left/right sides of the bed.
+It makes X belt parallel to the X axis (gantry) and equalize the nozzle travel scale over the all position on the axis.
 Therefore, the accuracy of the printed model is improved.
 
 |The shim|The shim installed on the toolhead|
@@ -25,7 +25,7 @@ It is 5mm off at the stepper side and is 3.8mm off at the idler side.
 
 ## Installing
 
-You can print and install two shims on the toolhead, one is stepper side the other is idler side.
+You can print two shims and install on the toolhead, one is stepper side the other is idler side, under the gantory.
 
 |Stepper side|Idler side|
 |---|---|
