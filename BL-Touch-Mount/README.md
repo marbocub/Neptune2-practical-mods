@@ -7,7 +7,7 @@ It has zero Y offset, is highly stiffness and strength, and is compatible with t
 
 Highly stiffness provide improve accuracy bed level repeat detection.
 Highly strength prevents deformation due to thermal stress.
-The zero Y offset keeps the nozzle and the prove level even when the print head is lean forward by temperature transition.
+The zero Y offset keeps the nozzle and the probe level even when the print head is lean forward by temperature transition.
 
 ![Home](Images/image-001.jpg)
 
