@@ -1,7 +1,6 @@
 # Neptune2-practical-mods/Extruder-Lever-Spacer
 
-This is a Spacer for the [Chubby: Relaxed Tensioning Lever for Creality Extruders](https://www.printables.com/en/model/220043) with stock extruder of ELEGOO Neptune 2.
-series 3D printers.
+This is a spacer for the [Chubby: Relaxed Tensioning Lever for Creality Extruders](https://www.printables.com/en/model/220043) with stock extruder of ELEGOO Neptune 2 series 3D printers.
 
 ## When it use
 
