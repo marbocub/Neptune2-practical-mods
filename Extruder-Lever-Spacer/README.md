@@ -5,7 +5,7 @@ This is a spacer for using the [Chubby: Relaxed Tensioning Lever for Creality Ex
 ## When it use
 
 The stock remote-extruder of ELEGOO Neptune 2 series 3D printers is easy to break, especially the tensioning lever.
-However, they can replace it with the Chubby Relaxed Tensioning Lever by using this spacer.
+They can replace it with the Chubby Relaxed Tensioning Lever by using this spacer.
 
 ## Material
 
